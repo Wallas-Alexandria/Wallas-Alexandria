@@ -24,6 +24,8 @@
   <a href = "mailto:alexandria.wallas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wallas-alexandria-3072a1232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
+  ##
+  
   ![Snake animation](https://github.com/Wallas-Alexandria/Wallas-Alexandria/blob/output/github-contribution-grid-snake.svg)
   
   </div>
