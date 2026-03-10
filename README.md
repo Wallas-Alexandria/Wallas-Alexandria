@@ -1,31 +1,41 @@
- ### <div align="center">Olá! Eu sou o Wallas Alexandria, desenvolvedor Front end e apaixonado por tecnologia!</div>
-<div align="center">
-  <a href="https://github.com/Wallas-Alexandria">
-  <img height="160em" width="46%" src="https://github-readme-stats.vercel.app/api?username=Wallas-Alexandria&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  
-  <img height="160em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wallas-Alexandria&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+# Olá, eu sou o Wallas Alexandria 👋
 
-##
+### Desenvolvedor Back-End .NET | C# | SQL Server
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="ws-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="ws-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="ws-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="ws-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="ws-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="ws-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
-  </div>
-  
-##
+Atualmente trabalho em consultoria de software, focando na construção de APIs escaláveis, robustas e de fácil manutenção. Sou entusiasta de Clean Architecture, Domain-Driven Design (DDD) e boas práticas de desenvolvimento (SOLID).
 
- <div align="center">
-  <a href="https://www.instagram.com/wallas_alexandria_dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:alexandria.wallas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wallas-alexandria-3072a1232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
- ##
-  
- ![Snake animation](https://github.com/Wallas-Alexandria/Wallas-Alexandria/blob/output/github-contribution-grid-snake.svg)
-  
-  </div>
+---
+
+### 🛠 Tecnologias & Ferramentas
+
+* **Linguagens:** C# (.NET 6/8+)
+* **Frameworks:** ASP.NET Core, Entity Framework Core, Web API
+* **Arquitetura & Padrões:** Clean Architecture, DDD, MediatR (CQRS), Result Pattern
+* **Banco de Dados:** SQL Server
+* **Testes:** xUnit
+* **Ferramentas:** Git, Docker, Windows Task Scheduler
+
+---
+
+### 🚀 Principais Projetos
+
+* **XPDev:** API gamificada para rastrear e ranquear atividades de desenvolvedores. Focada em performance e organização de entidades complexas.
+* **ResumoApp:** Sistema de repetição espaçada com automação de e-mails via BackgroundService (Supabase + Brevo SMTP).
+* **Cup Sealer Project:** Um projeto de engenharia pessoal envolvendo automação e hardware (resistências elétricas).
+
+---
+
+### 📊 Estatísticas do GitHub
+
+![Estatísticas do Wallas](https://github-readme-stats.vercel.app/api?username=wallas-alexandria&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=wallas-alexandria&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Como me encontrar
+
+* **LinkedIn:** [linkedin.com/in/wallas-alexandria](https://www.linkedin.com/in/wallas-alexandria/)
+* **Localização:** Rio de Janeiro, Brasil 🇧🇷
+
+---
+*"O código limpo sempre parece que foi escrito por alguém que se importa."*
