@@ -26,8 +26,8 @@ Atualmente trabalho em consultoria de software, focando na construção de APIs 
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas do Wallas](https://github-readme-stats.vercel.app/api?username=wallas-alexandria&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=wallas-alexandria&layout=compact&theme=tokyonight)
+![Estatísticas do Wallas](https://github-readme-stats.vercel.app/api?username=Wallas-Alexandria&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Wallas-Alexandria&layout=compact&theme=tokyonight)
 
 ---
 
