@@ -24,15 +24,11 @@ Atualmente trabalho em consultoria de software, focando na construção de APIs 
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🛠 Minha Stack Tecnológica
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wallas-Alexandria&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do Wallas" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wallas-Alexandria&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-</p>
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ---
 
