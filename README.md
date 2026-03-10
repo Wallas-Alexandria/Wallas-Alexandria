@@ -13,7 +13,7 @@ Atualmente trabalho em consultoria de software, focando na construção de APIs 
 * **Arquitetura & Padrões:** Clean Architecture, DDD, MediatR (CQRS), Result Pattern
 * **Banco de Dados:** SQL Server
 * **Testes:** xUnit
-* **Ferramentas:** Git, Docker, Windows Task Scheduler
+* **Ferramentas:** Git, Docker
 
 ---
 
@@ -21,7 +21,6 @@ Atualmente trabalho em consultoria de software, focando na construção de APIs 
 
 * **XPDev:** API gamificada para rastrear e ranquear atividades de desenvolvedores. Focada em performance e organização de entidades complexas.
 * **ResumoApp:** Sistema de repetição espaçada com automação de e-mails via BackgroundService (Supabase + Brevo SMTP).
-* **Cup Sealer Project:** Um projeto de engenharia pessoal envolvendo automação e hardware (resistências elétricas).
 
 ---
 
@@ -36,6 +35,3 @@ Atualmente trabalho em consultoria de software, focando na construção de APIs 
 
 * **LinkedIn:** [linkedin.com/in/wallas-alexandria](https://www.linkedin.com/in/wallas-alexandria/)
 * **Localização:** Rio de Janeiro, Brasil 🇧🇷
-
----
-*"O código limpo sempre parece que foi escrito por alguém que se importa."*
